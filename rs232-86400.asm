@@ -171,5 +171,4 @@ TX:
 	OUT ($A1),A	    ;RESTORE VALUE                                                                                                                                                                            
     EI              ;EXIT                                                                                                                                                                            
     RET                                                                                                                                                                            
-
 END:
